@@ -1,0 +1,7 @@
+div{
+    width: 80%;
+    margin: auto;
+}
+div>div{
+    width: 100%;
+}
